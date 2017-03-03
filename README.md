@@ -6,7 +6,7 @@ Submitted by: **Your Name Here**
 
 Time spent: **X** hours spent in total
 
-**Note** we do not require build this app for all Development OS, just based on what is fit for you.
+**Note** we do not require build this app for all Mobile OS, just based on what is fit for you.
 
 ## User Stories
 
