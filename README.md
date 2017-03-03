@@ -1,38 +1,23 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator*
 
-> HINT: Please
-> - include this README.md in your project and fill out the information. 
-> - remove the `README.rdoc` file that Rails generates. 
-> - remove all the HINT blocks in this file.
-
-**Name of your app** is a Ruby on Rails blog application.
+**Name of your app** is a tip calculator application for iOS.
 
 Submitted by: **Your Name Here**
 
 Time spent: **X** hours spent in total
 
-URL: **Insert your Heroku URL here**
-
 ## User Stories
 
 The following **required** functionality is complete:
 
-> HINT: mark the items you completed with [x]
-
-* [ ] User can create a new post, formatted using the Markdown language.
-* [ ] User can edit an existing post.
-* [ ] There is one post that introduces the App Creator with name, picture.
-* [ ] User can delete stories, with an alert that asks the user to confirm.
-* [ ] User see a search form on the Posts page.
-* [ ] User can submit a search term to find all posts bywith titles containing the search term.
+* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ ] Settings page to change Scene Transition 
 
 The following **optional** features are implemented:
-* [ ] There is a "navbar" that is responsive to window size similar to http://v4-alpha.getbootstrap.com/examples/navbar/. 
-* [ ] User can see how many views a post has. 
-* [ ] User can leave a comment on a post.
-* [ ] User can add "tags" to a post, and filter posts by tag. 
-
-> HINT: if you are unsure how to implement the Search feature, you can Google how to implement a simple search form. For example, one of the sites you will find is [this](http://www.jorgecoca.com/buils-search-form-ruby-rails/)
+* [ ] UI animations
+* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
@@ -42,11 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-> HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it:  
-> `![Video Walkthrough](walkthrough.gif)` 
-> 
-
-![Video Walkthrough](/path/to/your/gif/file)
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
