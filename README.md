@@ -6,6 +6,8 @@ Submitted by: **Your Name Here**
 
 Time spent: **X** hours spent in total
 
+**Note:Not require build this app for all Development OS, based on what is fit for you.**
+
 ## User Stories
 
 The following **required** functionality is complete:
