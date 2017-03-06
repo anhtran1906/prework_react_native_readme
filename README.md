@@ -8,6 +8,20 @@ Time spent: **X** hours spent in total
 
 **Note** we do not require build this app for all Mobile OS, just based on what is fit for you.
 
+## Usage 
+
+Write steps to run your project on locally
+**Install**
+```
+npm install
+```
+
+**Start the application in development mode**
+```
+react-native run-android
+react-native run-ios
+```
+
 ## User Stories
 
 The following **required** functionality is complete:
